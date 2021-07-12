@@ -1,0 +1,133 @@
+package Perma;
+
+public class Data {
+    // 5* chars
+    public static Character[] char5
+            = {new Character("Keqing", 5),
+            new Character("Qiqi", 5),
+            new Character("Jean", 5),
+            new Character("Mona", 5),
+            new Character("Diluc", 5)};
+    // 5* weapons
+    public static Weapon[] weap5
+            = {new Weapon("Skyward Harp", 5),
+            new Weapon("Skyward Atlas", 5),
+            new Weapon("Skyward Spine", 5),
+            new Weapon("Skyward Pride", 5),
+            new Weapon("Skyward Blade", 5),
+            new Weapon("Wolf's Gravestone", 5),
+            new Weapon("Amos' Bow", 5),
+            new Weapon("Lost Prayer to the Sacred Winds", 5),
+            new Weapon("Aquila Favonia", 5),
+            new Weapon("Primordial Jade Winged Spear", 5)};
+    // 4* chars
+    public static Character[] char4
+            = {new Character("Rosaria", 4),
+            new Character("Xinyan", 4),
+            new Character("Sucrose", 4),
+            new Character("Diona", 4),
+            new Character("Chongyun", 4),
+            new Character("Noelle", 4),
+            new Character("Bennett", 4),
+            new Character("Fischl", 4),
+            new Character("Ningguang", 4),
+            new Character("Xingqiu", 4),
+            new Character("Beidou", 4),
+            new Character("Xiangling", 4),
+            new Character("Amber", 4),
+            new Character("Razor", 4),
+            new Character("Kaeya", 4),
+            new Character("Barbara", 4),
+            new Character("Lisa", 4),
+            new Character("Yanfei", 4)};
+    // 4* weapons
+    public static Weapon[] weap4
+            = {new Weapon("Rust", 4),
+            new Weapon("Sacrificial Bow", 4),
+            new Weapon("Sacrificial Fragments", 4),
+            new Weapon("Sacrificial Greatsword", 4),
+            new Weapon("Sacrificial Sword", 4),
+            new Weapon("The Stringless", 4),
+            new Weapon("The Widsith", 4),
+            new Weapon("The Bell", 4),
+            new Weapon("The Flute", 4),
+            new Weapon("Favonius Warbow", 4),
+            new Weapon("Favonius Lance", 4),
+            new Weapon("Favonius Codex", 4),
+            new Weapon("Favonius Greatsword", 4),
+            new Weapon("Favonius Sword", 4),
+            new Weapon("Dragons's Bane", 4),
+            new Weapon("Rainslasher", 4),
+            new Weapon("Lion's Roar", 4),
+            new Weapon("Eye of Perception", 4)};
+    // 3* weapons
+    public static Weapon[] weap3
+            = {new Weapon("Slingshot", 3),
+            new Weapon("Thrilling Tales of Dragon Slayers", 3),
+            new Weapon("Sharpshooter's Oath", 3),
+            new Weapon("Ferrous Shadow", 3),
+            new Weapon("Skyrider Sword", 3),
+            new Weapon("Cool Steel", 3),
+            new Weapon("Debate Club", 3),
+            new Weapon("Black Tassel", 3),
+            new Weapon("Bloodtainted Greatsword", 3),
+            new Weapon("Magic Guide", 3),
+            new Weapon("Emerald Orb", 3),
+            new Weapon("Raven Bow", 3),
+            new Weapon("Harbinger of Dawn", 3)};
+    // 5* items
+    public static Item[] item5
+            = {new Character("Keqing", 5),
+            new Character("Qiqi", 5),
+            new Character("Jean", 5),
+            new Character("Mona", 5),
+            new Character("Diluc", 5),
+            new Weapon("Skyward Harp", 5),
+            new Weapon("Skyward Atlas", 5),
+            new Weapon("Skyward Spine", 5),
+            new Weapon("Skyward Pride", 5),
+            new Weapon("Skyward Blade", 5),
+            new Weapon("Wolf's Gravestone", 5),
+            new Weapon("Amos' Bow", 5),
+            new Weapon("Lost Prayer to the Sacred Winds", 5),
+            new Weapon("Aquila Favonia", 5),
+            new Weapon("Primordial Jade Winged Spear", 5)};
+    // 4* items
+    public static Item[] item4
+            = {new Character("Rosaria", 4),
+            new Character("Xinyan", 4),
+            new Character("Sucrose", 4),
+            new Character("Diona", 4),
+            new Character("Chongyun", 4),
+            new Character("Noelle", 4),
+            new Character("Bennett", 4),
+            new Character("Fischl", 4),
+            new Character("Ningguang", 4),
+            new Character("Xingqiu", 4),
+            new Character("Beidou", 4),
+            new Character("Xiangling", 4),
+            new Character("Amber", 4),
+            new Character("Razor", 4),
+            new Character("Kaeya", 4),
+            new Character("Barbara", 4),
+            new Character("Lisa", 4),
+            new Character("Yanfei", 4),
+            new Weapon("Rust", 4),
+            new Weapon("Sacrificial Bow", 4),
+            new Weapon("Sacrificial Fragments", 4),
+            new Weapon("Sacrificial Greatsword", 4),
+            new Weapon("Sacrificial Sword", 4),
+            new Weapon("The Stringless", 4),
+            new Weapon("The Widsith", 4),
+            new Weapon("The Bell", 4),
+            new Weapon("The Flute", 4),
+            new Weapon("Favonius Warbow", 4),
+            new Weapon("Favonius Lance", 4),
+            new Weapon("Favonius Codex", 4),
+            new Weapon("Favonius Greatsword", 4),
+            new Weapon("Favonius Sword", 4),
+            new Weapon("Dragons's Bane", 4),
+            new Weapon("Rainslasher", 4),
+            new Weapon("Lion's Roar", 4),
+            new Weapon("Eye of Perception", 4)};
+}
